@@ -1,5 +1,5 @@
 # Hi, I'm Rohan 👋
-**Product Management · Analytics · Python Builder · Indie Product Experiments**
+**Analytics  · Product Management · Python Builder · Indie Product Experiments**
 
 I work at the intersection of product strategy and hands-on engineering. I take small ideas, validate them fast, and turn them into working products with clean backends, simple UIs, and measurable impact.
 
