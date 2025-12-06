@@ -5,7 +5,7 @@ I work at the intersection of product strategy and hands-on engineering. I take 
 
 ---
 
-## 🔧 What I Do
+## 🔧 What I Love to Do
 - Build APIs, automation scripts, and lightweight tools  
 - Ship small products independently  
 - Mix product strategy with hands-on engineering  
