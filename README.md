@@ -1,7 +1,7 @@
 # Hi, I'm Rohan 👋
 **Analytics  · Product Management · Python Builder · Indie Product Experiments**
 
-I work at the intersection of product strategy and hands-on engineering. I take small ideas, validate them fast, and turn them into working products with clean backends, simple UIs, and measurable impact.
+I work at the intersection of product strategy and hands-on engineering. I take small ideas, validate them fast, and turn them into working products with clean backends, simple UIs, and measurable [...]
 
 ---
 
@@ -23,7 +23,10 @@ Stack: Flask · Tailwind
 https://excelpractice.online  
 
 ### **Video Screenshot Capture** — Chrome Extension  
-https://chromewebstore.google.com/detail/video-screenshot-capture/lbheaicoedhggjaiknjioebegldnnepo  
+https://chromewebstore.google.com/detail/video-screenshot-capture/lbheaicoedhgjaiknjioebegldnnepo  
+
+### **LinkedIn Referral Message Generator** — web app  
+https://linkedlnreferralmessagegenerator.vercel.app/  
 
 ---
 
