@@ -31,7 +31,7 @@
 ## 🔧 My Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,docker,gcp,digitalocean,pandas,tailwind,js,html,css,git&theme=light" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,docker,gcp,tailwind,js,html,css,git&theme=light" alt="My Skills" />
 </div>
 
 <br/>
