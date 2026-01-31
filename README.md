@@ -47,11 +47,11 @@
 
 <br/>
 
-## � GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashinkarrohan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Rohan's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashinkarrohan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rashinkarrohan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Rohan's Github Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rashinkarrohan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Languages" />
 </div>
 
 <br/>
