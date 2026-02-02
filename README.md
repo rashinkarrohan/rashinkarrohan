@@ -26,7 +26,7 @@ building: PlaceMe (Campus Placement Platform)
 ```
 
 **My Process:**
-- � Use data to find the real problem
+- 📊 Use data to find the real problem
 - 🎨 Design simple, intuitive solutions
 - 🔧 Build with clean code and modern tech
 - 🚀 Ship fast, iterate faster
@@ -35,12 +35,12 @@ building: PlaceMe (Campus Placement Platform)
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C++ • TypeScript • JavaScript  
-**Backend:** FastAPI • Flask • Next.js  
-**Frontend:** React • Tailwind CSS • HTML/CSS  
-**Database:** MySQL • Supabase  
-**Cloud & Tools:** GCP • Vercel • Git  
-**Product & Analytics:** Amplitude • Metabase • Tableau • Figma
+**Languages:** `Python` • `C++` • `TypeScript` • `JavaScript`  
+**Backend:** `FastAPI` • `Flask` • `Next.js`  
+**Frontend:** `React` • `Tailwind CSS` • `HTML/CSS`  
+**Database:** `MySQL` • `Supabase`  
+**Cloud & Tools:** `GCP` • `Vercel` • `Git`  
+**Product & Analytics:** `Amplitude` • `Metabase` • `Tableau` • `Figma`
 
 ---
 
@@ -48,11 +48,11 @@ building: PlaceMe (Campus Placement Platform)
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **SyncFeed** | RSS aggregator focused on simplicity | FastAPI • MySQL • GCP | [🔗 Visit](https://syncfeed.co) |
-| **ExcelPractice Hub** | Interactive Excel learning platform | Flask • Tailwind | [🔗 Visit](https://excelpractice.online) |
-| **Video Screenshot Capture** | Chrome extension for quick video screenshots | JavaScript • Chrome API | [🔗 Chrome Store](https://chromewebstore.google.com/detail/video-screenshot-capture/lbheaicoedhgjaiknjioebegldnnepo) |
-| **Google Play Reviews Scraper** | Extract and filter app reviews to CSV | Python • Flask • Vercel | [🔗 Visit](https://playstore-app-review-scraper.vercel.app/) |
-| **LinkedIn Msg Generator** | Custom referral message drafting tool | JavaScript • HTML | [🔗 View](https://linkedlnreferralmessagegenerator.vercel.app/) |
+| **SyncFeed** | RSS aggregator focused on simplicity | `FastAPI` `MySQL` `GCP` | [🔗 Visit](https://syncfeed.co) |
+| **ExcelPractice Hub** | Interactive Excel learning platform | `Flask` `Tailwind` | [🔗 Visit](https://excelpractice.online) |
+| **Video Screenshot Capture** | Chrome extension for quick video screenshots | `JavaScript` `Chrome API` | [🔗 Chrome Store](https://chromewebstore.google.com/detail/video-screenshot-capture/lbheaicoedhgjaiknjioebegldnnepo) |
+| **Google Play Reviews Scraper** | Extract and filter app reviews to CSV | `Python` `Flask` `Vercel` | [🔗 Visit](https://playstore-app-review-scraper.vercel.app/) |
+| **LinkedIn Msg Generator** | Custom referral message drafting tool | `JavaScript` `HTML` | [🔗 View](https://linkedlnreferralmessagegenerator.vercel.app/) |
 
 ---
 
@@ -60,10 +60,13 @@ building: PlaceMe (Campus Placement Platform)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rashinkarrohan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashinkarrohan&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rashinkarrohan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rashinkarrohan&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashinkarrohan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages"/>
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rashinkarrohan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashinkarrohan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&height=250" width="49%" alt="Activity Graph"/>
 
 </div>
 
