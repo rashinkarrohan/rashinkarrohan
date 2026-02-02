@@ -31,7 +31,7 @@
 ## 🔧 My Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,docker,gcp,tailwind,js,html,css,git&theme=light" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sql, mysql,gcp,tailwind,js,html,css,git&theme=light" alt="My Skills" />
 </div>
 
 <br/>
@@ -44,6 +44,7 @@
 | **ExcelPractice Hub**<br/>_Interactive Excel tasks platform._ | `Flask` `Tailwind` | [Visit Site](https://excelpractice.online) |
 | **Video Screenshot Capture**<br/>_Chrome Extension for quick snaps._ | `JavaScript` `Chrome API` | [Chrome Store](https://chromewebstore.google.com/detail/video-screenshot-capture/lbheaicoedhgjaiknjioebegldnnepo) |
 | **LinkedIn Msg Generator**<br/>_Custom referral message drafting._ | `Web App` | [View App](https://linkedlnreferralmessagegenerator.vercel.app/) |
+| **Google Play Reviews Scraper**<br/>_Extract and filter app reviews to CSV._ | `Web App` | [Visit Site](https://playstore-app-review-scraper.vercel.app/) |
 
 <br/>
 
