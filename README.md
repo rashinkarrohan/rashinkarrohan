@@ -18,16 +18,43 @@ Building products that solve real problems, one sprint at a time.
 
 ## 🎯 What I Do
 
-**Current Role:** Product Analyst @ Ather Energy  
-**Focus:** Product strategy + hands-on development  
-**Approach:** Fast validation → working products → measurable impact  
-**Building:** PlaceMe (Campus Placement Platform)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**My Process:**
-- 📊 Use data to find the real problem
-- 🎨 Design simple, intuitive solutions
-- 🔧 Build with clean code and modern tech
-- 🚀 Ship fast, iterate faster
+### 💼 Current Focus
+
+```
+🏢 Product Analyst @ Ather Energy
+🎯 Product Strategy + Engineering
+🚀 Building: PlaceMe Platform
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ My Approach
+
+```
+✓ Fast validation
+✓ Ship working products
+✓ Measure impact
+✓ Iterate quickly
+```
+
+</td>
+</tr>
+</table>
+
+### 🔄 How I Build Products
+
+<div align="center">
+
+| 📊 Data-Driven | 🎨 User-Focused | 🔧 Tech-Smart | � Ship Fast |
+|:---:|:---:|:---:|:---:|
+| Find the real problem | Design intuitive UIs | Clean, modern code | Iterate quickly |
+
+</div>
 
 ---
 
