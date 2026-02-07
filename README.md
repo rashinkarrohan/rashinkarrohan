@@ -49,6 +49,7 @@ Building products that solve real problems, one sprint at a time.
 | 📸 **Video Screenshot Capture** | Chrome extension for quick video screenshots | `JavaScript` `Chrome API` | [🔗 Chrome Store](https://chromewebstore.google.com/detail/video-screenshot-capture/lbheaicoedhgjaiknjioebegldnnepo) |
 | 📱 **Google Play Reviews Scraper** | Extract and filter app reviews to CSV | `Python` `Flask` `Vercel` | [🔗 Visit](https://playstore-app-review-scraper.vercel.app/) |
 | 💼 **LinkedIn Msg Generator** | Custom referral message drafting tool | `JavaScript` `HTML` | [🔗 View](https://linkedlnreferralmessagegenerator.vercel.app/) |
+| 🎨 **TryPaintByNumbers** | Turn photos into paint-by-numbers. Touch-friendly, relaxing, auto-save. | `HTML` `CSS` `JavaScript` `Node.js` `Vercel` | [🔗 Visit](https://www.trypaintbynumbers.com/) |
 
 ---
 
