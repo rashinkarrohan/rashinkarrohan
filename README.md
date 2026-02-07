@@ -44,12 +44,12 @@ Building products that solve real problems, one sprint at a time.
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| 📰 **SyncFeed** | RSS aggregator focused on simplicity | `FastAPI` `MySQL` `GCP` | [🔗 Visit](https://syncfeed.co) |
-| 📊 **ExcelPractice Hub** | Interactive Excel learning platform | `Flask` `Tailwind` | [🔗 Visit](https://excelpractice.online) |
+| 📰 **SyncFeed** | RSS aggregator focused on simplicity | `FastAPI` `MySQL` `GCP` | [🔗 syncfeed.co](https://syncfeed.co) |
+| 📊 **ExcelPractice Hub** | Interactive Excel learning platform | `Flask` `Tailwind` | [🔗 excelpractice.online](https://excelpractice.online) |
 | 📸 **Video Screenshot Capture** | Chrome extension for quick video screenshots | `JavaScript` `Chrome API` | [🔗 Chrome Store](https://chromewebstore.google.com/detail/video-screenshot-capture/lbheaicoedhgjaiknjioebegldnnepo) |
-| 📱 **Google Play Reviews Scraper** | Extract and filter app reviews to CSV | `Python` `Flask` `Vercel` | [🔗 Visit](https://playstore-app-review-scraper.vercel.app/) |
-| 💼 **LinkedIn Msg Generator** | Custom referral message drafting tool | `JavaScript` `HTML` | [🔗 View](https://linkedlnreferralmessagegenerator.vercel.app/) |
-| 🎨 **TryPaintByNumbers** | Turn photos into paint-by-numbers. Touch-friendly, relaxing, auto-save. | `HTML` `CSS` `JavaScript` `Node.js` `Vercel` | [🔗 Visit](https://www.trypaintbynumbers.com/) |
+| 📱 **Google Play Reviews Scraper** | Extract and filter app reviews to CSV | `Python` `Flask` `Vercel` | [🔗 playstore-app-review-scraper.vercel.app](https://playstore-app-review-scraper.vercel.app/) |
+| 💼 **LinkedIn Msg Generator** | Custom referral message drafting tool | `JavaScript` `HTML` | [🔗 linkedlnreferralmessagegenerator.vercel.app](https://linkedlnreferralmessagegenerator.vercel.app/) |
+| 🎨 **TryPaintByNumbers** | Turn photos into paint-by-numbers. Touch-friendly, relaxing, auto-save. | `HTML` `CSS` `JavaScript` `Node.js` `Vercel` | [🔗 trypaintbynumbers.com](https://www.trypaintbynumbers.com/) |
 
 ---
 
