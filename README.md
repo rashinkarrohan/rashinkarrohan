@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rohan Rashinkar
 
-### Product Manager | Builder | Data Enthusiast
+### Analytics  · Product Management · Python Builder · Indie Product Experiments
 
 I work at the intersection of **product strategy** and **hands-on engineering**.  
 Building products that solve real problems, one sprint at a time.
