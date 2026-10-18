@@ -10,7 +10,7 @@ Building products that solve real problems, one sprint at a time.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-rashinkar/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rohanrashinkar7246@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://rohanrashinkar.in)
-![Profile Views](https://komarev.com/ghpvc/?username=rashinkarrohan&style=flat&color=0e75b6)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=rashinkarrohan.rashinkarrohan&left_text=Profile%20Views)
 
 </div>
 
